@@ -1,4 +1,3 @@
-# VirtualPen-Opencv-
 Live webcam drawing pen using Opencv
 
 Required python package :
