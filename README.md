@@ -1,6 +1,6 @@
 
 
-```
+
 # Live Webcam Drawing Pen using OpenCV
 
 Create your own masterpiece in real-time with this Live Webcam Drawing Pen powered by OpenCV. Express your creativity by drawing shapes and patterns right from your webcam feed.
@@ -40,6 +40,4 @@ Once you have installed the required packages, you're ready to run the script. S
 Feel free to experiment and let your imagination run wild!
 
 Happy Drawing!
-```
 
-You can replace `"example.png"` with an actual example image from your project to provide users with a visual preview of what they can achieve with your Live Webcam Drawing Pen.
